@@ -28,5 +28,5 @@
     "http": "http://rpc2.eu.telos.net:7000/evm",
     "ws": "ws://rpc2.eu.telos.net:7000/evm",
     "description": "EU docker based"
-  },
+  }
 ]
