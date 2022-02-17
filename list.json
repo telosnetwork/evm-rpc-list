@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Telos.net Load Balancer",
+    "http": "https://mainet.telos.net/evm",
+    "ws": "wss://mainnet.telos.net/evm",
+    "description": "Geo-DNS based load balancer"
+  },
+  {
+    "name": "Telos.net US 1",
+    "http": "https://rpc1.us.telos.net/evm",
+    "ws": "",
+    "description": "US cluster"
+  },
+  {
+    "name": "Telos.net EU 1",
+    "http": "https://rpc1.eu.telos.net/evm",
+    "ws": "",
+    "description": "Europe Cluster"
+  },
+  {
+    "name": "Telos.net US 2",
+    "http": "http://rpc2.us.telos.net:7000/evm",
+    "ws": "ws://rpc2.us.telos.net:7000/evm",
+    "description": "US docker based"
+  },
+  {
+    "name": "Telos.net EU 2",
+    "http": "http://rpc2.eu.telos.net:7000/evm",
+    "ws": "ws://rpc2.eu.telos.net:7000/evm",
+    "description": "EU docker based"
+  },
+]
