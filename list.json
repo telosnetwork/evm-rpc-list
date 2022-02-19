@@ -19,14 +19,14 @@
   },
   {
     "name": "Telos.net US 2",
-    "http": "http://rpc2.us.telos.net:7000/evm",
-    "ws": "ws://rpc2.us.telos.net:7000/evm",
+    "http": "https://rpc2.us.telos.net/evm",
+    "ws": "wss://rpc2.us.telos.net/evm",
     "description": "US docker based"
   },
   {
     "name": "Telos.net EU 2",
-    "http": "http://rpc2.eu.telos.net:7000/evm",
-    "ws": "ws://rpc2.eu.telos.net:7000/evm",
+    "http": "https://rpc2.eu.telos.net/evm",
+    "ws": "wss://rpc2.eu.telos.net/evm",
     "description": "EU docker based"
   }
 ]
