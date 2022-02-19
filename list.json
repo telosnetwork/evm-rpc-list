@@ -28,5 +28,11 @@
     "http": "https://rpc2.eu.telos.net/evm",
     "ws": "wss://rpc2.eu.telos.net/evm",
     "description": "EU docker based"
+  },
+  {
+    "name": "TelosKorea.com",
+    "http": "https://evm.teloskorea.com/evm",
+    "ws": "wss://evm.teloskorea.com/evm",
+    "description": "TelosKorea docker based"
   }
 ]
