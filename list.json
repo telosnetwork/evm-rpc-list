@@ -40,7 +40,13 @@
     "http": "https://evm.teloskorea.com/evm",
     "ws": "wss://evm.teloskorea.com/evm",
     "description": "TelosKorea docker based"
-  },  
+  },
+  {
+    "name": "TelosKorea.com ASIA 2",
+    "http": "https://rpc2.teloskorea.com/evm",
+    "ws": "wss://ws-rpc2.teloskorea.com/evm",
+    "description": "TelosKorea ASIA Bare Metal Cluster"
+  },
   {
     "name": "Telos Unlimited US 2",
     "http": "https://rpc02.us.telosunlimited.io/evm",
