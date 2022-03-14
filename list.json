@@ -52,5 +52,11 @@
     "http": "https://rpc02.us.telosunlimited.io/evm",
     "ws": "wss://rpc02.us.telosunlimited.io/evm",
     "description": "Telos Unlimited docker based"
+  },
+   {
+    "name": "Telos Arabia EU Cluster",
+    "http": "https://rpc.telosarabia.net/evm",
+    "ws": "wss://rpc.telosarabia.net/evm",
+    "description": "Telos Arabia Europe Cluster"
   }
 ]
