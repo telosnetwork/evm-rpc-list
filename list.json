@@ -48,6 +48,12 @@
     "description": "TelosKorea ASIA Bare Metal Cluster"
   },
   {
+    "name": "Telos Unlimited US 1",
+    "http": "https://rpc01.us.telosunlimited.io/evm",
+    "ws": "wss://rpc01.us.telosunlimited.io/evm",
+    "description": "Telos Unlimited US Bare Metal Cluster"
+  },
+  {
     "name": "Telos Unlimited US 2",
     "http": "https://rpc02.us.telosunlimited.io/evm",
     "ws": "wss://rpc02.us.telosunlimited.io/evm",
