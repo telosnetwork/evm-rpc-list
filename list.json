@@ -36,7 +36,7 @@
     "description": "EU docker based"
   },
   {
-    "name": "TelosKorea.com",
+    "name": "TelosKorea.com ASIA 1",
     "http": "https://evm.teloskorea.com/evm",
     "ws": "wss://ws-evm.teloskorea.com/evm",
     "description": "TelosKorea ASIA Bare Metal Cluster"
