@@ -36,10 +36,10 @@
     "description": "EU docker based"
   },
   {
-    "name": "TelosKorea.com",
+    "name": "TelosKorea.com ASIA 1",
     "http": "https://evm.teloskorea.com/evm",
     "ws": "wss://ws-evm.teloskorea.com/evm",
-    "description": "TelosKorea docker based"
+    "description": "TelosKorea ASIA Bare Metal Cluster"
   },
   {
     "name": "TelosKorea.com ASIA 2",
@@ -47,6 +47,12 @@
     "ws": "wss://ws-rpc2.teloskorea.com/evm",
     "description": "TelosKorea ASIA Bare Metal Cluster"
   },
+  {
+    "name": "TelosKorea.com ASIA 3",
+    "http": "https://rpc3.teloskorea.com/evm",
+    "ws": "wss://ws-rpc3.teloskorea.com/evm",
+    "description": "TelosKorea ASIA Bare Metal Cluster"
+  },  
   {
     "name": "Telos Unlimited US 1",
     "http": "https://rpc01.us.telosunlimited.io/evm",
