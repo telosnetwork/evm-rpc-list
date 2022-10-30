@@ -25,9 +25,9 @@
   },
   {
     "name": "Kainos Block Producers US 1",
-    "http": "https://api.kainosbp.com/evm",
+    "http": "https://rpc1.kainosbp.com/evm",
     "ws": "",
-    "description": "US Bare Metal Cluster"
+    "description": "Texas Bare Metal Cluster"
   },
   {
     "name": "Telos.net Asia 1",
