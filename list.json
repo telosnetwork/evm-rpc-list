@@ -24,18 +24,6 @@
     "description": "US docker based"
   },
   {
-    "name": "Kainos Block Producers US 1",
-    "http": "https://rpc1.kainosbp.com/evm",
-    "ws": "",
-    "description": "Texas Bare Metal Cluster"
-  },
-  {
-    "name": "Telos.net Asia 1",
-    "http": "https://rpc1.asia.telos.net/evm",
-    "ws": "wss://rpc1.asia.telos.net/evm",
-    "description": "Japan Bare Metal Cluster"
-  },
-  {
     "name": "Telos.net EU 2",
     "http": "https://rpc2.eu.telos.net/evm",
     "ws": "wss://rpc2.eu.telos.net/evm",
