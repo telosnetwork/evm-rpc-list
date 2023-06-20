@@ -18,18 +18,6 @@
     "description": "Europe Cluster"
   },
   {
-    "name": "Telos.net US 2",
-    "http": "https://rpc2.us.telos.net/evm",
-    "ws": "wss://rpc2.us.telos.net/evm",
-    "description": "US docker based"
-  },
-  {
-    "name": "Telos.net EU 2",
-    "http": "https://rpc2.eu.telos.net/evm",
-    "ws": "wss://rpc2.eu.telos.net/evm",
-    "description": "EU docker based"
-  },
-  {
     "name": "TelosKorea.com ASIA 1",
     "http": "https://evm.teloskorea.com/evm",
     "ws": "wss://ws-evm.teloskorea.com/evm",
