@@ -28,5 +28,11 @@
     "http": "https://rpc.telosarabia.net/evm",
     "ws": "wss://rpc.telosarabia.net/evm",
     "description": "Telos Arabia Europe Cluster"
+  },
+     {
+    "name": "Detroit Ledger Technologies NA",
+    "http": "https://evm.telos.detroitledger.tech",
+    "ws": "wss://evm.telos.detroitledger.tech",
+    "description": "Detroit Ledger Technologies North America Bare Metal Cluster"
   }
 ]
