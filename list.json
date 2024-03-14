@@ -31,8 +31,8 @@
   },
      {
     "name": "Detroit Ledger Technologies NA",
-    "http": "https://evm.telos.detroitledger.tech",
-    "ws": "wss://evm.telos.detroitledger.tech",
+    "http": "https://evm.telos.detroitledger.tech/evm",
+    "ws": "wss://evm.telos.detroitledger.tech/evm",
     "description": "Detroit Ledger Technologies North America Bare Metal Cluster"
   }
 ]
