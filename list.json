@@ -1,27 +1,33 @@
 [
   {
-    "name": "Telos.net Load Balancer",
+    "name": "Telos.net v1.0 Load Balancer",
     "http": "https://mainnet.telos.net/evm",
     "ws": "wss://mainnet.telos.net/evm",
-    "description": "Geo-DNS based load balancer"
+    "description": "v1.0 Geo-DNS based load balancer"
   },
   {
-    "name": "Telos.net US 1",
-    "http": "https://rpc1.us.telos.net/evm",
+    "name": "Telos.net v1.5 Load Balancer",
+    "http": "https://mainnet15.telos.net/evm",
     "ws": "",
-    "description": "US cluster"
+    "description": "v1.5 Geo-DNS based load balancer"
   },
   {
-    "name": "Telos.net EU 1",
-    "http": "https://rpc1.eu.telos.net/evm",
+    "name": "Telos v1.5 US RPC",
+    "http": "https://mainnet-us.telos.net/evm",
     "ws": "",
-    "description": "Europe Cluster"
+    "description": "US v1.5 Cluster"
   },
   {
-    "name": "TelosKorea.com ASIA 1",
-    "http": "https://evm.teloskorea.com/evm",
-    "ws": "wss://ws-evm.teloskorea.com/evm",
-    "description": "TelosKorea ASIA Bare Metal Cluster"
+    "name": "Telos v1.5 EU RPC",
+    "http": "https://mainnet-eu.telos.net/evm",
+    "ws": "",
+    "description": "Europe v1.5 Cluster"
+  },
+  {
+    "name": "Telos v1.5 Asia RPC",
+    "http": "https://mainnet-asia.telos.net/evm",
+    "ws": "",
+    "description": "Asia v1.5 Cluster"
   },
    {
     "name": "Telos Arabia EU Cluster",
@@ -29,7 +35,7 @@
     "ws": "wss://rpc.telosarabia.net/evm",
     "description": "Telos Arabia Europe Cluster"
   },
-     {
+  {
     "name": "Detroit Ledger Technologies NA",
     "http": "https://evm.telos.detroitledger.tech/evm",
     "ws": "wss://evm.telos.detroitledger.tech/evm",
