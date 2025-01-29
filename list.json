@@ -1,50 +1,8 @@
 [
   {
-    "name": "Telos.net v1.0 Load Balancer",
-    "http": "https://mainnet.telos.net/evm",
-    "ws": "wss://mainnet.telos.net/evm",
-    "description": "v1.0 Geo-DNS based load balancer"
-  },
-  {
-    "name": "Telos.net v1.5 Load Balancer",
-    "http": "https://mainnet15.telos.net/evm",
+    "name": "Telos.net v2.0 Load Balancer",
+    "http": "https://rpc.telos.net/evm",
     "ws": "",
-    "description": "v1.5 Geo-DNS based load balancer"
-  },
-  {
-    "name": "Telos v1.5 US RPC",
-    "http": "https://mainnet-us.telos.net/evm",
-    "ws": "",
-    "description": "US v1.5 Cluster"
-  },
-  {
-    "name": "Telos v1.5 EU RPC",
-    "http": "https://mainnet-eu.telos.net/evm",
-    "ws": "",
-    "description": "Europe v1.5 Cluster"
-  },
-  {
-    "name": "Telos v1.5 Asia RPC",
-    "http": "https://mainnet-asia.telos.net/evm",
-    "ws": "",
-    "description": "Asia v1.5 Cluster"
-  },
-   {
-    "name": "Telos Arabia EU Cluster",
-    "http": "https://rpc.telosarabia.net/evm",
-    "ws": "wss://rpc.telosarabia.net/evm",
-    "description": "Telos Arabia Europe Cluster"
-  },
-  {
-    "name": "Detroit Ledger Technologies NA",
-    "http": "https://evm.telos.detroitledger.tech/evm",
-    "ws": "wss://evm.telos.detroitledger.tech/evm",
-    "description": "Detroit Ledger Technologies North America Bare Metal Cluster"
-  },
-  {
-    "name": "Boid BP - Telos v.1.5",
-    "http": "https://telos.evm.api.animus.is/evm",
-    "ws": "",
-    "description": "Boid BP endpoint - Tenerife, Canary Islands, Spain"
+    "description": "v2.0 Geo-DNS based load balancer"
   }
 ]
